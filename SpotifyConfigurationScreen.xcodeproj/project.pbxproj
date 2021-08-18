@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD4B76A026CD3B75009C0619 /* RowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4B769F26CD3B75009C0619 /* RowView.swift */; };
+		FD4B76A226CD3CAC009C0619 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4B76A126CD3CAC009C0619 /* Functions.swift */; };
+		FD4B76A426CD4108009C0619 /* CrossfadeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4B76A326CD4108009C0619 /* CrossfadeView.swift */; };
 		FD746ACC26B6D05D003BC129 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD746ACB26B6D05D003BC129 /* AppDelegate.swift */; };
 		FD746ACE26B6D05D003BC129 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD746ACD26B6D05D003BC129 /* SceneDelegate.swift */; };
 		FD746AD026B6D05D003BC129 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD746ACF26B6D05D003BC129 /* ViewController.swift */; };
@@ -35,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FD4B769F26CD3B75009C0619 /* RowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowView.swift; sourceTree = "<group>"; };
+		FD4B76A126CD3CAC009C0619 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		FD4B76A326CD4108009C0619 /* CrossfadeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrossfadeView.swift; sourceTree = "<group>"; };
 		FD746AC826B6D05D003BC129 /* SpotifyConfigurationScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpotifyConfigurationScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD746ACB26B6D05D003BC129 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD746ACD26B6D05D003BC129 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +108,9 @@
 				FD746ACB26B6D05D003BC129 /* AppDelegate.swift */,
 				FD746ACD26B6D05D003BC129 /* SceneDelegate.swift */,
 				FD746ACF26B6D05D003BC129 /* ViewController.swift */,
+				FD4B769F26CD3B75009C0619 /* RowView.swift */,
+				FD4B76A326CD4108009C0619 /* CrossfadeView.swift */,
+				FD4B76A126CD3CAC009C0619 /* Functions.swift */,
 				FD746AD126B6D05D003BC129 /* Main.storyboard */,
 				FD746AD426B6D061003BC129 /* Assets.xcassets */,
 				FD746AD626B6D061003BC129 /* LaunchScreen.storyboard */,
@@ -261,6 +270,9 @@
 				FD746AD026B6D05D003BC129 /* ViewController.swift in Sources */,
 				FD746ACC26B6D05D003BC129 /* AppDelegate.swift in Sources */,
 				FD746ACE26B6D05D003BC129 /* SceneDelegate.swift in Sources */,
+				FD4B76A226CD3CAC009C0619 /* Functions.swift in Sources */,
+				FD4B76A026CD3B75009C0619 /* RowView.swift in Sources */,
+				FD4B76A426CD4108009C0619 /* CrossfadeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
